@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ff7dfd5-9a20-499f-93d4-64bc320c9719" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="7ff7dfd5-9a20-499f-93d4-64bc320c9719" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,11 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="functionoverload.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/functionoverload.kt">
+      <file leaf-file-name="funPolymorphism.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/funPolymorphism.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="4" lean-forward="false" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+            <state relative-caret-position="255">
+              <caret line="17" column="15" lean-forward="false" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -53,6 +51,7 @@
         <option value="$PROJECT_DIR$/src/simple_function.kt" />
         <option value="$PROJECT_DIR$/src/simple_function2.kt" />
         <option value="$PROJECT_DIR$/src/functionoverload.kt" />
+        <option value="$PROJECT_DIR$/src/funPolymorphism.kt" />
       </list>
     </option>
   </component>
@@ -119,7 +118,19 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.FunctionoverloadKt">
+  <component name="RunManager" selected="Kotlin.FunPolymorphismKt">
+    <configuration name="FunPolymorphismKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="FunPolymorphismKt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="belajarkotlin" />
+      <envs />
+    </configuration>
     <configuration name="FunctionoverloadKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="FunctionoverloadKt" />
@@ -135,18 +146,6 @@
     <configuration name="MutableSetOfKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="MutableSetOfKt" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="belajarkotlin" />
-      <envs />
-    </configuration>
-    <configuration name="SetOfKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="SetOfKt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -262,19 +261,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Kotlin.SetOfKt" />
-      <item index="1" class="java.lang.String" itemvalue="Kotlin.MutableSetOfKt" />
-      <item index="2" class="java.lang.String" itemvalue="Kotlin.Simple_functionKt" />
-      <item index="3" class="java.lang.String" itemvalue="Kotlin.Simple_function2Kt" />
-      <item index="4" class="java.lang.String" itemvalue="Kotlin.FunctionoverloadKt" />
+      <item index="0" class="java.lang.String" itemvalue="Kotlin.MutableSetOfKt" />
+      <item index="1" class="java.lang.String" itemvalue="Kotlin.Simple_functionKt" />
+      <item index="2" class="java.lang.String" itemvalue="Kotlin.Simple_function2Kt" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin.FunctionoverloadKt" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.FunPolymorphismKt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.FunctionoverloadKt" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin.Simple_function2Kt" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin.Simple_functionKt" />
-        <item index="3" class="java.lang.String" itemvalue="Kotlin.MutableSetOfKt" />
-        <item index="4" class="java.lang.String" itemvalue="Kotlin.SetOfKt" />
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.FunPolymorphismKt" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin.FunctionoverloadKt" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin.Simple_function2Kt" />
+        <item index="3" class="java.lang.String" itemvalue="Kotlin.Simple_functionKt" />
+        <item index="4" class="java.lang.String" itemvalue="Kotlin.MutableSetOfKt" />
       </list>
     </recent_temporary>
   </component>
@@ -293,6 +292,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1366" height="710" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -480,7 +480,15 @@
     <entry file="file://$PROJECT_DIR$/src/functionoverload.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
-          <caret line="21" column="4" lean-forward="false" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/funPolymorphism.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="15" lean-forward="false" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
           <folding />
         </state>
       </provider>
