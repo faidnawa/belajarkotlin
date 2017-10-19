@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ff7dfd5-9a20-499f-93d4-64bc320c9719" name="Default" comment="" />
+    <list default="true" id="7ff7dfd5-9a20-499f-93d4-64bc320c9719" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="funPolymorphism.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/funPolymorphism.kt">
+      <file leaf-file-name="Global_and_Local_Variable.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Global_and_Local_Variable.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="15" lean-forward="false" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+            <state relative-caret-position="90">
+              <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -52,6 +54,7 @@
         <option value="$PROJECT_DIR$/src/simple_function2.kt" />
         <option value="$PROJECT_DIR$/src/functionoverload.kt" />
         <option value="$PROJECT_DIR$/src/funPolymorphism.kt" />
+        <option value="$PROJECT_DIR$/src/Global_and_Local_Variable.kt" />
       </list>
     </option>
   </component>
@@ -118,7 +121,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.FunPolymorphismKt">
+  <component name="RunManager" selected="Kotlin.Global_and_Local_VariableKt">
     <configuration name="FunPolymorphismKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="FunPolymorphismKt" />
@@ -143,9 +146,9 @@
       <module name="belajarkotlin" />
       <envs />
     </configuration>
-    <configuration name="MutableSetOfKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Global_and_Local_VariableKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="MutableSetOfKt" />
+      <option name="MAIN_CLASS_NAME" value="Global_and_Local_VariableKt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -261,19 +264,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Kotlin.MutableSetOfKt" />
-      <item index="1" class="java.lang.String" itemvalue="Kotlin.Simple_functionKt" />
-      <item index="2" class="java.lang.String" itemvalue="Kotlin.Simple_function2Kt" />
-      <item index="3" class="java.lang.String" itemvalue="Kotlin.FunctionoverloadKt" />
-      <item index="4" class="java.lang.String" itemvalue="Kotlin.FunPolymorphismKt" />
+      <item index="0" class="java.lang.String" itemvalue="Kotlin.Simple_functionKt" />
+      <item index="1" class="java.lang.String" itemvalue="Kotlin.Simple_function2Kt" />
+      <item index="2" class="java.lang.String" itemvalue="Kotlin.FunctionoverloadKt" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin.FunPolymorphismKt" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.Global_and_Local_VariableKt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.FunPolymorphismKt" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin.FunctionoverloadKt" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin.Simple_function2Kt" />
-        <item index="3" class="java.lang.String" itemvalue="Kotlin.Simple_functionKt" />
-        <item index="4" class="java.lang.String" itemvalue="Kotlin.MutableSetOfKt" />
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.Global_and_Local_VariableKt" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin.FunPolymorphismKt" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin.FunctionoverloadKt" />
+        <item index="3" class="java.lang.String" itemvalue="Kotlin.Simple_function2Kt" />
+        <item index="4" class="java.lang.String" itemvalue="Kotlin.Simple_functionKt" />
       </list>
     </recent_temporary>
   </component>
@@ -292,7 +295,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1366" height="710" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -302,9 +304,9 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3284553" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3284553" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34146342" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34146342" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27265862" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -489,6 +491,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="15" lean-forward="false" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Global_and_Local_Variable.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
           <folding />
         </state>
       </provider>
